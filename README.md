@@ -22,5 +22,5 @@ A website's purpose after all is to generate/increase revenue for a company. One
 to increase web visibility in search engines. 
 
 Pasted below are links to my website 
-website link: 
+website link: https://stillnotapotato.github.io/CP3402_LearningJournal_Practical/
 GitHub repository link: https://github.com/StillNotAPotato/CP3402_LearningJournal_Practical.git
