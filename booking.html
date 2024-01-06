@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Appointment Booking</title>
+  <script src="script.js"></script>
+</head>
+
+<body>
+  <h1>Appointment Booking</h1>
+
+  <form id="bookingForm">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required><br>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required><br>
+
+    <label for="date">Date:</label>
+    <input type="date" id="date" name="date" required><br>
+
+    <label for="time">Time:</label>
+    <input type="time" id="time" name="time" required><br>
+
+    <input type="submit" value="Book Appointment">
+  </form>
+
+  <div id="bookingStatus"></div>
+
+  <script>
+    // JavaScript code for handling form submission and booking status
+    document.getElementById("bookingForm").addEventListener("submit", function(event) {
+      event.preventDefault(); // Prevent form submission
+
+      // Get form values
+      var name = document.getElementById("name").value;
+      var email = document.getElementById("email").value;
+      var date = document.getElementById("date").value;
+      var time = document.getElementById("time").value;
+
+      // Perform booking logic here (e.g., send data to server, update database)
+
+      // Display booking status
+      var bookingStatus = document.getElementById("bookingStatus");
+      bookingStatus.innerHTML = "Appointment booked successfully!";
+    });
+  </script>
+</body>
+</html>
