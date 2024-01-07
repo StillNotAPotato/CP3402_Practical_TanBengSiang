@@ -25,4 +25,4 @@ Pasted below are links to my website:
 
 website link: https://stillnotapotato.github.io/CP3402_LearningJournal_Practical/
 
-GitHub repository link: https://github.com/StillNotAPotato/CP3402_LearningJournal_Practical.git
+GitHub repository link: https://github.com/StillNotAPotato/CP3402_Practical_TanBengSiang.git
