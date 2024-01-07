@@ -23,6 +23,6 @@ to increase web visibility in search engines.
 
 Pasted below are links to my website:
 
-website link: https://stillnotapotato.github.io/CP3402_LearningJournal_Practical/
+website link: https://stillnotapotato.github.io/CP3402_Practical_TanBengSiang/
 
 GitHub repository link: https://github.com/StillNotAPotato/CP3402_Practical_TanBengSiang.git
